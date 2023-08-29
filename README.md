@@ -1,4 +1,4 @@
-# QUERY PDFs WITH LANGCHAIN & OPENAI
+# QUERY PDFs WITH LangChain & OpenAI
 
 ## OBJECTIVE:
 - Explore options information retrival from text-based documents
