@@ -10,6 +10,7 @@
         
 ## BASED ON:
 1.) https://www.udemy.com/course/langchain-guide-next-gen-chatgpt-llms-apps-with-langchain/learn/lecture/38797056#overview
+
 2.) https://towardsdatascience.com/4-ways-of-question-answering-in-langchain-188c6707cc5a
 
 ## TESTS:
