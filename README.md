@@ -1,6 +1,6 @@
 # QUERY-PDFs-WITH-LANGCHAIN-OPENAI
 
-##OBJECTIVE:
+## OBJECTIVE:
 - Explore options information retrival from text-based documents
 - Status: SUCCESS!
     - the LANGCHAIN and OPENAI's GPT model was able to answer correctly a wide number of questions from the document
@@ -8,11 +8,11 @@
         - dates, names, entities, key topics, sentiments, summarizations,...
         - possibly, we can make assesement if a set of documents provide support or not for some case of interest
         
-##BASED ON:
+## BASED ON:
 1.) https://www.udemy.com/course/langchain-guide-next-gen-chatgpt-llms-apps-with-langchain/learn/lecture/38797056#overview
 2.) https://towardsdatascience.com/4-ways-of-question-answering-in-langchain-188c6707cc5a
 
-##TESTS:
+## TESTS:
 1.) LLM's HALLUCINATION... provide question without the input document... and you still get an answer!?!??!
 
 2.) VECTOR SEARCH
